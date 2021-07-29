@@ -32,7 +32,7 @@ public class AtmMain {
 		switch (choice) {
 
 		case 1:
-			System.out.println("Please enter bank name");
+			System.out.println("Please enter bank name of customer");
 			String bname = sc.next();
 			System.out.println("Please enter your name");
 			String cname = sc.next();
